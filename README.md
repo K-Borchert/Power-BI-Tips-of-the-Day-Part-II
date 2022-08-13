@@ -33,5 +33,15 @@
 <td VALIGN=TOP><h4 id="30" style="text-align: center;">Teams Activity with Power BI</h4></td>
  </tr> 
   
+    <tr>
+<td><img src="" width="800"/></td>
+<td VALIGN=TOP><h4 id="31" style="text-align: center;">Teams Activity with Power BI</h4></td>
+ </tr> 
+  
+      <tr>
+<td><img src="https://user-images.githubusercontent.com/63601923/184499699-1f00b73c-7e0d-45d2-aa53-e6abac6b59ac.gif" width="800"/></td>
+<td VALIGN=TOP><h4 id="32" style="text-align: center;">Notes in PQ</h4></td>
+ </tr> 
+  
   
 </table>
