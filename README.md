@@ -24,8 +24,14 @@
 </tr>
 
 <tr>
-<td><img src="https://user-images.githubusercontent.com/63601923/184495483-418faf02-ca02-4820-898d-aad2f3f28397.gif" width="800"/></td>
-<td VALIGN=TOP><h4 id="28" style="text-align: center;">Power BI Service: Custom Message before publishing</h4></td>
+<td><img src="https://user-images.githubusercontent.com/63601923/184499064-6f419b86-db3a-4dac-87d7-e168b2f0b299.gif" width="800"/></td>
+<td VALIGN=TOP><h4 id="29" style="text-align: center;">Power BI in Teams  GLOBAL setting</h4></td>
+ </tr> 
+  
+  <tr>
+<td><img src="https://user-images.githubusercontent.com/63601923/184499117-6021b9c0-6f5d-4481-b1db-359410231211.gif" width="800"/></td>
+<td VALIGN=TOP><h4 id="30" style="text-align: center;">Teams Activity with Power BI</h4></td>
+ </tr> 
   
   
 </table>
